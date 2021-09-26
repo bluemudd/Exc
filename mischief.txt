@@ -1,1 +1,5 @@
-beauty her mischief
+package gitExc;
+
+public class Exc {
+	System.out.println("her mischief is so beautiful");
+}
